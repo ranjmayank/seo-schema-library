@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO is the process of structuring content to help AI-powered tools like Google SGE and ChatGPT deliver direct answers from your site."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is AEO different from SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While SEO focuses on ranking web pages, AEO focuses on making content eligible to be extracted and displayed in AI-generated summaries and featured answers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best tools for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Top AEO tools include Google Search Console, Ahrefs, AlsoAsked, Schema Markup Generator, and ChatGPT for conversational optimization."
+      }
+    }
+  ]
+}
+</script>
