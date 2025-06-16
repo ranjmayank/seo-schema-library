@@ -10,7 +10,7 @@ Maintained by [Mayank Ranjan](https://ranjanmayank.in) — a digital marketing s
 
 | File Name                  | Schema Type      | Purpose                                  |
 |---------------------------|------------------|------------------------------------------|
-| `techarticle-schema.json` | [TechArticle](https://github.com/ranjmayank/seo-schema-library/blob/main/techarticle-schema.json)       | For long-form blog posts and guides      |
+| [techarticle-schema.json](./techarticle-schema.json) | TechArticle       | For long-form blog posts and guides      |
 | `faq-schema.json`         | FAQPage           | For structured Q&A sections              |
 | `speakable-schema.json`   | Speakable         | For voice assistant readiness            |
 | `imageobject-schema.json` | ImageObject       | For banner and internal image metadata   |
