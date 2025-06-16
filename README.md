@@ -28,7 +28,7 @@ Maintained by [Mayank Ranjan](https://ranjanmayank.in) — a digital marketing s
 
 ## 📂 Example Implementation
 
-Read the full blog implementation here →  
+i have implemented all the schema here  →  
 👉 [Answer Engine Optimization Guide 2025](https://ranjanmayank.in/blog/answer-engine-optimization-guide/)
 
 ---
