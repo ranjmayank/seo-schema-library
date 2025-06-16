@@ -1,0 +1,128 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "ImageObject",
+  "@id": "https://ranjanmayank.in/blog/answer-engine-optimization-guide/#imageobject",
+  "url": "",
+  "datePublished": "",
+  "dateModified": "",
+  "description": "",
+  "name": "",
+  "license": "",
+  "acquireLicensePage": "",
+  "uploadDate": "",
+  "contentUrl": "",
+  "contentLocation": "",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "",
+      "width": "",
+      "height": ""
+    },
+    "name": ""
+  },
+  "author": {
+    "@type": "Person",
+    "name": "",
+    "description": "",
+    "url": "",
+    "image": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "review": [],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://ranjanmayank.in/blog/answer-engine-optimization-guide/#primaryimage",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/ChatGPT-Image-May-22-2025-11_18_02-PM.png",
+      "width": "1536",
+      "height": "1024",
+      "caption": "Answer Engine Optimization"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/ChatGPT-Image-May-22-2025-11_18_02-PM-1200x900.png",
+      "width": "1200",
+      "height": "900",
+      "caption": "Answer Engine Optimization"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/ChatGPT-Image-May-22-2025-11_18_02-PM-1200x675.png",
+      "width": "1200",
+      "height": "675",
+      "caption": "Answer Engine Optimization"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/ChatGPT-Image-May-22-2025-11_18_02-PM-1024x1024.png",
+      "width": "1024",
+      "height": "1024",
+      "caption": "Answer Engine Optimization"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/2350b9b0-ffbd-4cf8-b0a7-4d7344fb313d_1600x1005-1024x643.jpg",
+      "width": 1024,
+      "height": 643,
+      "caption": "Google Search Evolution Timeline"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Add-a-heading-1024x576.png",
+      "width": 1024,
+      "height": 576,
+      "caption": "User behaviour on Google, User Search Data"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Screenshot-2025-06-09-133901-1024x410.png",
+      "width": 1024,
+      "height": 410
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Add-a-heading-2-1024x576.png",
+      "width": 1024,
+      "height": 576,
+      "caption": "SEO and AEO, AI seo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Zero-search-click-example-768x284.png",
+      "width": 768,
+      "height": 284,
+      "caption": "Zero search click example"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/AEO-Optimization-Funnel-1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "caption": "AEO Optimization Funnel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/AEO-Sucess-Mertices-1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "caption": "AEO Success Mertics"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Common-Myths-vs.-Reality-for-AEO-and-SEO-1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "caption": "AEO and SEO myths"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/06/Book-Free-Ai-SEO-Call-1024x341.png",
+      "width": 1024,
+      "height": 341
+    }
+  ]
+}
