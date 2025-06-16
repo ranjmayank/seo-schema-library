@@ -13,7 +13,7 @@ Maintained by [Mayank Ranjan](https://ranjanmayank.in) — a digital marketing s
 | [techarticle-schema.json](./techarticle-schema.json) | TechArticle       | For long-form blog posts and guides      |
 | [faq-schema.json](./faq-schema.json)         | FAQPage           | For structured Q&A sections              |
 | `speakable-schema.json`   | Speakable         | For voice assistant readiness            |
-| `imageobject-schema.json` | ImageObject       | For banner and internal image metadata   |
+| [imageobject-schema.json](./imageobject-schema.json) | ImageObject       | For banner and internal image metadata   |
 | `author-schema.json`      | Person            | Describes the content author             |
 
 ---
