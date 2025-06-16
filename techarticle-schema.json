@@ -1,0 +1,50 @@
+<script>
+    {
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ranjanmayank.in/blog/answer-engine-optimization-guide/"
+  },
+  "headline": "Answer Engine Optimization (AEO) Guide 2025: Be the Answer, Not Just a Result",
+  "alternativeHeadline": "The Ultimate Guide to AI-Powered Search Optimization Using AEO Strategies",
+  "description": "This 3000+ word expert guide explains how to optimize your content for Answer Engine Optimization (AEO) in 2025. Learn strategies for AI search visibility across Google SGE, ChatGPT, schema, featured snippets, and more.",
+  "keywords": "Answer Engine Optimization, AEO vs SEO, AI-powered search, Google SGE, schema markup, ChatGPT SEO",
+  "inLanguage": "en",
+  "url": "https://ranjanmayank.in/blog/answer-engine-optimization-guide/",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://ranjanmayank.in/wp-content/uploads/2025/05/ChatGPT-Image-May-22-2025-11_18_02-PM.png",
+    "name": "AEO Optimization Banner Image – AI Search Strategy",
+    "description": "A blog banner visualizing the concept of AEO with AI-driven search UI and schema elements."
+  },
+  "datePublished": "2025-06-11T09:00:00+05:30",
+  "dateModified": "2025-06-12T10:30:00+05:30",
+  "author": {
+    "@type": "Person",
+    "name": "Mayank Ranjan",
+    "url": "https://ranjanmayank.in/",
+    "description": "Mayank Ranjan is a digital marketing strategist with 7+ years of experience in SEO, content marketing, and personal branding. He helps professionals and businesses build strong digital visibility through data-driven strategies and AI-powered content."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ranjan Mayank",
+    "url": "https://ranjanmayank.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ranjanmayank.in/wp-content/uploads/2025/01/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "about": [
+    {"@type": "Thing", "name": "Answer Engine Optimization"},
+    {"@type": "Thing", "name": "AI Search Optimization"},
+    {"@type": "Thing", "name": "Search Generative Experience (SGE)"},
+    {"@type": "Thing", "name": "Schema Markup"},
+    {"@type": "Thing", "name": "ChatGPT Search"},
+    {"@type": "Thing", "name": "Conversational SEO"}
+  ]
+}
+
+</script>
